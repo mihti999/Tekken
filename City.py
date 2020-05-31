@@ -78,7 +78,7 @@ os.system("clear")
 print "\x1b[0;31m⚔════════════════════════☠════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   
 \033[1;96m[¤] \x1b[0;31mWHATAPP:NOT USE\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mFACEBOOK : JAM SHAHRUKH\#coding=utf-8
+\033[1;93m[¤] \x1b[0;31mFACEBOOK : Naveed Ahmad\#coding=utf-8
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -754,7 +754,7 @@ def pilih_super():
 	print "\033[1;32;40m[+] Total OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;31;40m/\033[1;36;40m"+str(len(cekpoint))
 	print '\033[1;34;40m[+] CP File Has Been Saved : save/cp.txt'
 	print """
-\033[1;31;40m ●══════════════════════☠═══════════════════════●	           """
+\033[1;31;40m ●══════════════════════AW☠TRICKER═══════════════════════●	           """
 	raw_input("\n\033[1;96m[\033[1;97mExit\033[1;96m]")
 	menu()
 
